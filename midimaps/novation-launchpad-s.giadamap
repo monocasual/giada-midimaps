@@ -1,6 +1,6 @@
 {
   "brand": "Novation",
-  "device": "Launchpad S",
+  "device": "Launchpad S / Mini",
   "init_commands": [
     {
       "channel": 0,
@@ -9,6 +9,10 @@
     {
       "channel": 0,
       "message": "0xB0002800"
+    }
+    {
+      "channel": 0,
+      "message": "0xB01E0F00"
     }
   ],
   "mute_on": {
@@ -34,6 +38,10 @@
   "playing": {
     "channel": 0,
     "message": "0x90nn3C00"
+  },
+  "playing_inaudible": {
+    "channel": 0,
+    "message": "0x90nn1C00"
   },
   "stopping": {
     "channel": 0,
