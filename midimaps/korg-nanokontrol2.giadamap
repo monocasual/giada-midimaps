@@ -1,0 +1,46 @@
+{
+	"brand": "Korg",
+	"device": "nanoKONTROL 2",
+	"init_commands": [
+		{
+			"channel": 0,
+			"message": "0xBF297f00"
+		},
+		{
+			"channel": 0,
+			"message": "0xBF297f00"
+		}
+	],
+	"mute_on": {
+		"channel": 0,
+		"message": "0xB0nn7f00"
+	},
+	"mute_off": {
+		"channel": 0,
+		"message": "0xB0nn0000"
+	},
+	"solo_on": {
+		"channel": 0,
+		"message": "0xB0nn7F00"
+	},
+	"solo_off": {
+		"channel": 0,
+		"message": "0xB0nn0000"
+	},
+	"waiting": {
+		"channel": 0,
+		"message": "0xB0nn0000"
+	},
+	"playing": {
+		"channel": 0,
+		"message": "0xB0nn7f00"
+	},
+	"stopping": {
+		"channel": 0,
+		"message": "0xB0nn6400"
+	},
+	"stopped": {
+		"channel": 0,
+		"message": "0xB0nn0000"
+	}
+}
