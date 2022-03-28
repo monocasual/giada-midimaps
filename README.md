@@ -12,4 +12,4 @@ Midimap files reside in your configuration directory, or more precisely:
 
 Download the zip archive and uncompress it in the midimap folders seen before. Giada will look into those directories on startup. If the files are valid midimap files they will be listed in the Configuration window, MIDI section. 
 
-For more information, please refer to the [official documentation](http://giadamusic.com/documentation/show/midi-output-management).
+For more information, please refer to the [official documentation](https://www.giadamusic.com/documentation-midi-output-management).
