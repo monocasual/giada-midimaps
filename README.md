@@ -4,9 +4,9 @@ This is the official repository of [Giada](http://www.giadamusic.com) **midimap 
 
 Midimap files reside in your configuration directory, or more precisely:
 
-* Linux — `/home/[your_user]/.giada/midimaps/`;
-* OS X — `[your_home]/Library/Application Support/Giada/midimaps/`;
-* Windows — `midimaps/` folder, alongside the binary file.
+* Linux — `/home/(your_user)/.config/giada/midimaps/`;
+* OS X — `/Users/(your_user)/Library/Application Support/Giada/midimaps/`;
+* Windows — `C:\Users\(your_user)\AppData\Giada\midimaps\`.
 
 ## How to install a midimap file
 
